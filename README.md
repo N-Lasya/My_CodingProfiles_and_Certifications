@@ -13,7 +13,7 @@ Coding Profiles
 
 **LeetCode**: https://leetcode.com/lasya_n/
 
-**SPOJ**: lasya_n
+**SPOJ username**: lasya_n
 
 **ProjectEuler username**: nlasya
 
