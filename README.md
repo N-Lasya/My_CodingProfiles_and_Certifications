@@ -13,6 +13,10 @@ Coding Profiles
 
 **LeetCode**: https://leetcode.com/lasya_n/
 
+**SPOJ**: lasya_n
+
+**ProjectEuler username**: nlasya
+
 
 Certifications
 --------------
