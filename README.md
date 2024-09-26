@@ -21,6 +21,12 @@ Coding Profiles
 Certifications
 --------------
 
+**Azure 900**: https://learn.microsoft.com/api/credentials/share/en-us/LasyaNallamalli-3085/3B673E5AACBD12B7?sharingId=D5CAEA65F79FEFE3
+
+Credential ID: 3B673E5AACBD12B7
+
+**Dotnet FSE certification by Optum**
+
 **Hackerrank problem solving (basic) skills certification**: https://www.hackerrank.com/certificates/a8cc6c8fb5a1
 
 **Programming for Everybody(Getting Started with Python)**: https://coursera.org/share/31766a33a9e5a7129c067139483ec565
@@ -30,7 +36,3 @@ Certifications
 **AI for Everyone**: https://coursera.org/share/398c9b90d05335ad45d2a0cdd9aa9a16
 
 **Digital Skills: Artificial Intelligence**: https://www.futurelearn.com/certificates/uzvrgxi
-
-**Fundamentals of digital marketing**: https://learndigital.withgoogle.com/digitalunlocked/validate-certificate-code
-
-Certificate ID - YKC X4N 8SS
